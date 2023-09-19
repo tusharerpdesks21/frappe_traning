@@ -1,0 +1,257 @@
+ERP
+
+ERP stands for Enterprise Resource Planning. It refers to a type of software system that organizations use to manage and integrate various aspects of their business processes. ERP systems are designed to streamline and automate a wide range of activities across different departments, such as finance, human resources, supply chain management, manufacturing, and more.
+
+ERPnext
+
+ERPNext is a software tool that helps businesses manage and streamline their various operations and processes. It stands for Enterprise Resource Planning (ERP) and it essentially acts as a central hub where you can keep track of things like inventory, sales, accounting, and more. It is a record of all the transaction happening within a business digitally.
+
+Modules in ERPnext
+Accounting:
+Manages financial transactions and records.
+Tracks income, expenses, and assets.
+Generates financial statements and reports.
+
+Assets:
+Tracks and maintains records of company assets.
+Manages asset depreciation and maintenance schedules.
+Helps in optimizing asset utilization and replacement.
+
+
+Buying:
+Streamlines the procurement process.
+Manages supplier relationships and negotiations.
+Generates purchase orders and tracks deliveries.
+
+CRM (Customer Relationship Management):
+Organizes customer information and interactions.
+Tracks leads, opportunities, and customer communications.
+Improves customer service and relationship building.
+
+HR (Human Resources):
+Maintains employee records and profiles.
+Manages payroll, attendance, and leave requests.
+Helps in performance reviews and HR analytics.
+
+ERPNext Integrations:
+Enables integration with external software and services.
+Facilitates data exchange and automation.
+Enhances ERP functionality by connecting with other tools.
+
+ERPNext Settings:
+Provides customization options for ERPNext.
+Allows configuration of system settings and preferences.
+Tailors ERPNext to specific business requirements.
+
+Payroll:
+Automates payroll calculations and tax deductions.
+Manages employee compensation, benefits, and deductions.
+Generates payrolls and compliance reports.
+
+
+
+Integrations:
+Focuses on connecting ERPNext with third-party applications.
+Enhances data flow and process efficiency.
+Integrates with various software and services.
+
+Loans:
+Tracks and manages loans within the organization.
+Records borrowings, repayments, and interest calculations.
+Provides loan status and reporting.
+
+Manufacturing:
+Supports production processes and manufacturing operations.
+Manages bill of materials, work orders, and production scheduling.
+Optimizes resource allocation and production efficiency.
+
+Projects:
+Manages projects, tasks, and timelines.
+Allocates resources and monitors project progress.
+Facilitates collaboration and project documentation.
+
+Quality:
+Ensures product quality control through inspections.
+Manages quality testing and compliance.
+Helps maintain product standards and certifications.
+
+Retail:
+Designed for retail businesses.
+Manages sales transactions, inventory, and customer interactions.
+Supports point-of-sale (POS) operations.
+
+
+
+Selling:
+Manages the sales process from quotations to invoicing.
+Tracks customer orders and sales pipelines.
+Improves sales team productivity and customer management.
+
+Stock:
+Manages inventory, stock levels, and stock movements.
+Optimizes reorder points and stock replenishment.
+Provides visibility into product availability.
+
+Support:
+Facilitates customer support and issue tracking.
+Manages support tickets and escalations.
+Enhances customer service and resolution processes.
+
+Tools:
+Offers utility tools for system customization.
+Provides features for data import, export, and management.
+Includes debugging and system maintenance tools.
+
+Users:
+Manages user roles, permissions, and access control.
+Ensures data security and user-specific privileges.
+Supports multi-user collaboration within ERPNext.
+
+Website:
+Allows the creation and management of websites.
+Offers website building and customization tools.
+Integrates with ERPNext for seamless content management.
+
+
+
+Utilities:
+Provides additional utility features for various purposes.
+Offers miscellaneous tools and enhancements.
+Enhances the functionality and user experience of ERPNext.
+
+Basic Activities in a business
+1. Buying
+2. Selling
+
+1. Buying:
+It involves following transactions:
+
+Material Request:
+
+This is a request made by various departments within a company for the procurement of materials or items they need.
+It initiates the procurement process and specifies the quantity and type of materials required.
+Material Requests help streamline the purchasing process by providing a structured way for employees to request necessary items.
+
+Request for Quotation (RFQ):
+
+After receiving a Material Request, the company may issue an RFQ to multiple suppliers to request price quotations for the required materials.
+An RFQ includes details about the items, quantities, and specifications needed.
+Suppliers respond with their price quotations, which are then used to compare and select the best supplier.
+
+
+
+Supplier Quotation:
+
+This is the response from a supplier to the RFQ, providing the quoted prices, terms, and delivery conditions.
+Supplier quotations allow the company to evaluate and compare offers from different suppliers.
+The company can then select the most suitable supplier based on these quotations.
+
+Price Confirmation:
+
+Price confirmation is the formal acceptance of a supplier's quotation.
+It signifies the company's intention to proceed with the purchase at the quoted price.
+Once the price is confirmed, the purchasing process moves forward.
+
+Purchase Order (PO):
+
+A Purchase Order is a legally binding document sent by the buyer to the chosen supplier.
+It specifies the final terms and conditions of the purchase, including the agreed-upon price, quantity, delivery date, and payment terms.
+The PO serves as a contract between the buyer and the supplier.
+
+Material Receipt:
+
+After the supplier delivers the ordered materials, a Material Receipt is created to acknowledge the receipt of the goods.
+It verifies that the items received match the items specified in the Purchase Order.
+Material Receipts are essential for inventory management and accounting.
+
+Purchase Invoice:
+
+The supplier sends a Purchase Invoice to the buyer after delivering the goods or services.
+It includes details of the transaction, such as the total amount due, taxes, and payment instructions.
+The Purchase Invoice is used for accounting and payment processing.
+
+Payment Entry:
+
+Payment Entry is the recording of the payment made to the supplier for the received goods or services.
+It updates the company's financial records and accounts payable.
+Payment Entry ensures that the supplier is paid accurately and on time.
+
+2. Selling:
+It involves following transactions:
+
+Quotation:
+
+A Quotation is a formal document sent to a potential customer in response to their inquiry or request for pricing.
+It includes details about the products or services being offered, their prices, and any terms and conditions.
+The purpose of a quotation is to provide the customer with an estimate of the cost of their order.
+
+Sales Order:
+
+Once the customer accepts the quotation and decides to make a purchase, a Sales Order is created.
+The Sales Order formalizes the customer's request to buy the specified products or services.
+It includes details such as the quantity ordered, delivery date, and payment terms.
+
+Delivery Note:
+
+When the company is ready to ship or deliver the products to the customer, a Delivery Note is generated.
+This document accompanies the shipment and lists the items being sent, their quantities, and any special instructions.
+It serves as a packing slip and provides a record of what was delivered.
+
+
+Sales Invoice:
+
+After the products or services have been delivered, a Sales Invoice is sent to the customer.
+It contains a summary of the products or services provided, their prices, and the total amount due.
+The Sales Invoice serves as a formal request for payment and is used for accounting and record-keeping.
+
+Payment Entry:
+
+Payment Entry is the recording of the payment received from the customer for the invoice.
+It updates the company's financial records, showing that the customer's account is settled.
+Payment Entry ensures that the company's receivables are accurately tracked and managed.
+
+Master
+In ERPNext, a "Master" typically refers to a type of record or data entity that serves as a foundational reference point for various transactions and processes within the system. Masters are essential for organizing and managing data consistently across different modules. They act as centralized repositories of information. Here are a few common examples of Masters in ERPNext:
+
+Item Master: This includes details about the products or services your business offers, such as item codes, descriptions, pricing, and inventory information. The Item Master is crucial for managing inventory, creating sales orders, and tracking stock levels.
+
+Customer Master: It contains information about your customers, such as their contact details, billing addresses, and payment terms. This master helps in managing customer relationships, creating sales orders, and generating invoices.
+
+Supplier Master: Similar to the Customer Master, this includes information about your suppliers, such as contact details, payment terms, and supplier codes. It's used for procurement processes, including purchase orders and supplier management.
+
+Employee Master: This master record stores data about your employees, including their personal information, job roles, and payroll details. It's essential for HR management, attendance tracking, and payroll processing.
+
+Warehouse Master: Warehouse Masters store information about your physical storage locations, such as warehouse names, addresses, and storage capacity. They are used in inventory management to track the movement and storage of items.
+
+Currency Master: It contains information about different currencies your business deals with, including exchange rates and symbols. This is crucial for multi-currency transactions and financial reporting.
+
+Company Master: This record stores information about your organization, such as its name, address, and contact details. It is used for configuring various settings and preferences for the entire ERPNext system.
+
+Chart of Accounts: This is a critical financial master that defines your company's financial structure, including all the accounts used for recording transactions, such as revenue, expenses, and assets.
+
+Features of ERP next
+Desk:
+The Desk is the main interface or dashboard of ERPNext.
+It provides access to various modules, features, and functions of the ERP system.
+Users can customize their Desk by arranging and configuring modules to suit their workflow.
+
+Workspace:
+Workspaces are personalized views of the Desk tailored to specific roles or tasks.
+They allow users to focus on relevant modules and features, improving efficiency.
+Each user can create and customize their own workspaces to streamline their work.
+
+Awesome Bar:
+The Awesome Bar is a search and navigation tool in ERPNext.
+It enables users to quickly find and access various records, transactions, or modules by typing keywords or phrases.
+It's a powerful way to navigate the system without having to navigate through menus manually.
+
+DocType:
+A DocType (Document Type) is a fundamental building block in ERPNext.
+It defines the structure of a document or record, specifying its fields and behavior.
+Examples of DocTypes include Sales Order, Purchase Invoice, and Customer.
+
+
+Views of DocType:
+Views of DocType refer to different ways of displaying and interacting with records of a particular DocType.
+ERPNext offers various views, including List View (for a summary of records), Form View (for detailed record editing), and Kanban View (visual card-based representation).
+These views cater to different user preferences and tasks, making it easy to work with data.
